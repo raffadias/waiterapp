@@ -19,5 +19,3 @@ Tenha o Expo Go instalado em seu celular ou em seu emulador
 ```
 </br>
 Escaneie o QRcode dentro do aplicativo Expo Go ou digite a url do seu localhost.
-
-[⬆ Voltar ao topo](#Waiterapp)<br>
