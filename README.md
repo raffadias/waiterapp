@@ -12,10 +12,12 @@ Para instalar as dependências:
 ```
 Para rodar o projeto localmente:
 </br>
-Tenha o expo Go instalado em seu celular ou em seu emulador
+Tenha o Expo Go instalado em seu celular ou em seu emulador
 
 ```
 <yarn start>
 ```
+</br>
+Escaneie o QRcode dentro do aplicativo Expo Go ou digite a url do seu localhost.
 
 [⬆ Voltar ao topo](#Waiterapp)<br>
