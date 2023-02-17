@@ -11,9 +11,7 @@ Para instalar as dependências:
 <yarn>
 ```
 Para rodar o projeto localmente:
-```
-<Tenha o expo Go instalado em seu celular ou em seu emulador>
-```
+Tenha o expo Go instalado em seu celular ou em seu emulador
 
 ```
 <yarn start>
